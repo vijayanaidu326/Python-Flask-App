@@ -2,6 +2,8 @@
 
 Goal: The purpose of this image is to Create Flask Application
 
+## VM Approach
+
 ### Setup Python & pip
 
 Install python & pip
@@ -17,6 +19,8 @@ Be in the directory Python-Flask-App
 - `python app.py`
 
 By default the application runs on port 5000, Browse the application http://loclahost:5000
+
+## Conatiner Approach
 
 ### Steps to building your own image
 
