@@ -13,6 +13,7 @@ Install python & pip
 Be in the directory Python-Flask-App
 - `cd Python-Flask-App`
 - `cd python app.py`
+
 By default the application runs on port 5000
 Browse the application http://loclahost:5000
 
