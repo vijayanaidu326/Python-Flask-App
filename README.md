@@ -26,9 +26,9 @@ By default the application runs on port 5000, Browse the application http://locl
 
 Be in the directory Python-Flask-App
 - `cd Python-Flask-App`
-- `docker build -t ravi2krishna/flask-app -f Dockerfile-1 .`
+- `docker build -t ravi2krishna/flask-app-1 -f Dockerfile-1 .`
 - `docker run -p 9090:5000 -d <user-name>/<image-name>`
-- `docker run -p 9090:5000 -d ravi2krishna/flask-app`
+- `docker run -p 9090:5000 -d ravi2krishna/flask-app-1`
 
 ### Saving the image to docker hub
 - `Register for an account on hub.docker.com`
