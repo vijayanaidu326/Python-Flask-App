@@ -30,6 +30,10 @@ Be in the directory Python-Flask-App
 - `docker run -p 9090:5000 -d <user-name>/<image-name>`
 - `docker run -p 9090:5000 -d ravi2krishna/flask-app-1`
 
+- `docker build -t ravi2krishna/flask-app .`
+- `docker run -p 9000:5000 -d <user-name>/<image-name>`
+- `docker run -p 9000:5000 -d ravi2krishna/flask-app`
+
 ### Saving the image to docker hub
 - `Register for an account on hub.docker.com`
 - `In server machine`
