@@ -2,6 +2,20 @@
 
 Goal: The purpose of this image is to Create Flask Application
 
+### Setup Python & pip
+
+Install python & pip
+- `# sudo yum -y update`
+- `# sudo pip install --upgrade pip`      
+
+### Steps to run application
+
+Be in the directory Python-Flask-App
+- `cd Python-Flask-App`
+- `cd python app.py`
+By default the application runs on port 5000
+Browse the application http://loclahost:5000
+
 ### Steps to building your own image
 
 Be in the directory pyton-flask-sample-app
