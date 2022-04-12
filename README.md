@@ -20,8 +20,6 @@ Be in the directory Python-Flask-App
 
 By default the application runs on port 5000, Browse the application http://loclahost:5000
 
-## Conatiner Approach
-
 ### Steps to building your own image
 
 Be in the directory Python-Flask-App
